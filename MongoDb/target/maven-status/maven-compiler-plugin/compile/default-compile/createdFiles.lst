@@ -1,0 +1,10 @@
+com/example/demo/Service/UserService.class
+com/example/demo/DemoApplication.class
+com/example/demo/repository/UserRepository.class
+com/example/demo/repository/UserRepositoryImpl.class
+com/example/demo/repository/MongoCustomRepositoryImpl.class
+com/example/demo/Config/MyMongoPropertiesConfig.class
+com/example/demo/controller/UserController.class
+com/example/demo/Config/MyMongoBeanConfig.class
+com/example/demo/model/User.class
+com/example/demo/repository/MongoCustomRepository.class

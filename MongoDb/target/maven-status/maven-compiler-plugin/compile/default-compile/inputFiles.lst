@@ -1,0 +1,10 @@
+/Users/ashishbhatia/Desktop/demo 2/src/main/java/com/example/demo/Config/MyMongoBeanConfig.java
+/Users/ashishbhatia/Desktop/demo 2/src/main/java/com/example/demo/Config/MyMongoPropertiesConfig.java
+/Users/ashishbhatia/Desktop/demo 2/src/main/java/com/example/demo/DemoApplication.java
+/Users/ashishbhatia/Desktop/demo 2/src/main/java/com/example/demo/Service/UserService.java
+/Users/ashishbhatia/Desktop/demo 2/src/main/java/com/example/demo/controller/UserController.java
+/Users/ashishbhatia/Desktop/demo 2/src/main/java/com/example/demo/model/User.java
+/Users/ashishbhatia/Desktop/demo 2/src/main/java/com/example/demo/repository/MongoCustomRepository.java
+/Users/ashishbhatia/Desktop/demo 2/src/main/java/com/example/demo/repository/MongoCustomRepositoryImpl.java
+/Users/ashishbhatia/Desktop/demo 2/src/main/java/com/example/demo/repository/UserRepository.java
+/Users/ashishbhatia/Desktop/demo 2/src/main/java/com/example/demo/repository/UserRepositoryImpl.java

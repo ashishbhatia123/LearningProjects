@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/mydb
+
+
+my:
+  mongo:
+    uri: mongodb://localhost:27017
+    database: mydb
